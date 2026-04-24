@@ -1,6 +1,53 @@
 body {
-    font-family: arial, sans-serif;
+  font-family: Arial, sans-serif;
+  background-color: #eef2ff;
+  color: #1e293b;
 }
-h1 {
-    color: #333;
+
+
+.navbar {
+  background-color: #3b82f6 !important; 
+}
+
+.navbar-brand {
+  color: white !important;
+}
+
+.nav-link {
+  color: #e0e7ff !important;
+}
+
+.nav-link:hover {
+  color: white !important;
+}
+
+
+h5 {
+  color: #1e3a8a;
+}
+
+
+.card {
+  background-color: #c2b6b6;
+  border: none;
+  border-radius: 12px;
+}
+
+
+.card-title {
+  color: #1e40af;
+}
+
+
+button {
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 6px;
+}
+
+
+.container {
+  margin-top: 40px;
 }
